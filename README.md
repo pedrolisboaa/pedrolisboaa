@@ -3,11 +3,11 @@
 Here I put everything!
 Studies, mini-projects, projects, everything!
 
-Skills: JAVA / HTML / CSS / JS
+Skills: HTML/ CSS / JS
 
 - :notebook: I’m currently working on my studs 
-- :blue_book: I’m currently learning Java Java Java 
-- 🤔 I’m looking for help with Java 
+- :blue_book: I’m currently learning front! 
+- 🤔 I’m looking for help with JS!
 - :chicken: Ask me about Jogo do Bicho! 
 - 📫 How to reach me: phlisboa2000@gmail.com 
 
