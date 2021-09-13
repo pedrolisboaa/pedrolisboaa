@@ -1,13 +1,13 @@
 ### Hi there 👋, my name is Pedro Lisboa
-#### I'm new to JAVA development.
+#### I'm new to PYTHON development.
 Here I put everything!
 Studies, mini-projects, projects, everything!
 
-Skills: HTML/ CSS / JS
+Skills: PYTHON / HTML/ CSS 
 
 - :notebook: I’m currently working on my studs 
-- :blue_book: I’m currently learning front! 
-- 🤔 I’m looking for help with JS!
+- :blue_book: I’m currently learning PYTHON! 
+- 🤔 I’m looking for help with PYTHON!
 - :chicken: Ask me about Jogo do Bicho! 
 - 📫 How to reach me: phlisboa2000@gmail.com 
 
